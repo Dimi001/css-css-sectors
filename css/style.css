@@ -1,8 +1,11 @@
 .p {
-    color: blueviolet}
+    color: blueviolet;
+}
 
 h1,h3 {
-    background-color: rgb(43, 226, 211);}
+    background-color: rgb(43, 226, 211);
+}
 
 h1+h3 {
-    color: red;}
+    color: red;
+}
